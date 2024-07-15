@@ -1,0 +1,261 @@
+{
+  "cid": 750,
+  "entityName": "Software Nuggets",
+  "accounts": {
+    "usa": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+
+        "units": {
+
+          "trades": [{
+  "cid": 750,
+  "entityName": "Software Nuggets",
+  "accounts": {
+    "usa": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+
+        "units": {
+
+          "trades": [
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "tranType": "Buy",
+              "qty": 12,
+              "costPerShare": 304.82
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "tranType": "Buy",
+              "qty": 36,
+              "costPerShare": 149.03
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "tsla",
+              "tranType": "Buy",
+              "qty": 4,
+              "costPerShare": 755.83
+            }
+          ]
+
+        }
+
+      }
+    },
+    "slovakia": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+
+        "units": {
+
+          "trades": [
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "DATG",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 6.00
+            },
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "KRKG",
+              "tranType": "Buy",
+              "qty": 13,
+              "costPerShare": 111.50
+            },
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "PETG",
+              "tranType": "Buy",
+              "qty": 41,
+              "costPerShare": 442.00
+            }
+          ]
+
+        }
+
+      }
+    },
+    "ecuador": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+        "units": {
+
+          "trades": [
+            {
+              "acct": 12101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "Banco Pichincha",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 80.00
+            },
+            {
+              "acct": 12101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "BOLIVARIAN BANK",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 0.84
+            }
+          ]
+
+        }
+
+      }
+    },
+    "mexico": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+        "units": {
+
+          "trades": [
+            {
+              "acct": 246101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "AGUA",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 31.57
+            }
+          ]
+
+        }
+      }
+    }
+  }
+}
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "tranType": "Buy",
+              "qty": 12,
+              "costPerShare": 304.82
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "MSFT",
+              "tranType": "Buy",
+              "qty": 36,
+              "costPerShare": 149.03
+            },
+            {
+              "acct": 101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "tsla",
+              "tranType": "Buy",
+              "qty": 4,
+              "costPerShare": 755.83
+            }
+          ]
+
+        }
+
+      }
+    },
+    "slovakia": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+
+        "units": {
+
+          "trades": [
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "DATG",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 6.00
+            },
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "KRKG",
+              "tranType": "Buy",
+              "qty": 13,
+              "costPerShare": 111.50
+            },
+            {
+              "acct": 6101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "PETG",
+              "tranType": "Buy",
+              "qty": 41,
+              "costPerShare": 442.00
+            }
+          ]
+
+        }
+
+      }
+    },
+    "ecuador": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+        "units": {
+
+          "trades": [
+            {
+              "acct": 12101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "Banco Pichincha",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 80.00
+            },
+            {
+              "acct": 12101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "BOLIVARIAN BANK",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 0.84
+            }
+          ]
+
+        }
+
+      }
+    },
+    "mexico": {
+      "entityStockShares": {
+        "label": "Common Stock, that is outstanding",
+        "desc": "# of shares each customer holds",
+        "units": {
+
+          "trades": [
+            {
+              "acct": 246101,
+              "dateOfTrade": "2021-09-15",
+              "ticker": "AGUA",
+              "tranType": "Buy",
+              "qty": 22,
+              "costPerShare": 31.57
+            }
+          ]
+
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\supsu\OneDrive\School Python\Project\Simulation Building\Server Creation\sendData.cs\sendData.cs\obj\Debug\net6.0\sendData.cs.csproj.AssemblyReference.cache
+C:\Users\supsu\OneDrive\School Python\Project\Simulation Building\Server Creation\sendData.cs\sendData.cs\obj\Debug\net6.0\sendData.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supsu\OneDrive\School Python\Project\Simulation Building\Server Creation\sendData.cs\sendData.cs\obj\Debug\net6.0\sendData.cs.AssemblyInfoInputs.cache
+C:\Users\supsu\OneDrive\School Python\Project\Simulation Building\Server Creation\sendData.cs\sendData.cs\obj\Debug\net6.0\sendData.cs.AssemblyInfo.cs
+C:\Users\supsu\OneDrive\School Python\Project\Simulation Building\Server Creation\sendData.cs\sendData.cs\obj\Debug\net6.0\sendData.cs.csproj.CoreCompileInputs.cache

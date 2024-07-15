@@ -1,0 +1,86 @@
+[
+      [
+            {
+                  "attack": 7.77,
+                  "health": 12.15,
+                  "speed": 10.51,
+                  "viewDistance": 71.11,
+                  "isMale": 1,
+                  "guid": "cc63359e-099b-4526-8371-eff59ee59d9b"
+            },
+            {
+                  "attack": 7.77,
+                  "health": 14.96,
+                  "speed": 7.48,
+                  "viewDistance": 70.7,
+                  "isMale": 0,
+                  "guid": "bf04be8d-fa75-4949-b9e7-2a5ba64a017f"
+            },
+            {
+                  "attack": 7.47,
+                  "health": 10.19,
+                  "speed": 10.1,
+                  "viewDistance": 64.63,
+                  "isMale": 0,
+                  "guid": "a7bc3928-c4fa-4069-8dad-34ca3711a4e7"
+            },
+            {
+                  "attack": 5.24,
+                  "health": 13.07,
+                  "speed": 11.35,
+                  "viewDistance": 50.95,
+                  "isMale": 1,
+                  "guid": "30e197a2-bce1-4241-8741-c605d4a91fa9"
+            },
+            {
+                  "attack": 6.1,
+                  "health": 13.75,
+                  "speed": 14.06,
+                  "viewDistance": 42.53,
+                  "isMale": 0,
+                  "guid": "074ee921-1f8a-43d6-9a64-5c9ec6b90915"
+            }
+      ],
+      [
+            {
+                  "attack": 7.04,
+                  "health": 10.13,
+                  "speed": 8.67,
+                  "viewDistance": 72.3,
+                  "isMale": 1,
+                  "guid": "9911fe3d-b1f8-4b5a-9f3d-2b62c46a3752"
+            },
+            {
+                  "attack": 5.26,
+                  "health": 12.93,
+                  "speed": 12.62,
+                  "viewDistance": 65.24,
+                  "isMale": 0,
+                  "guid": "a9cd7c00-2f66-4fde-9ed0-12912e7f6259"
+            },
+            {
+                  "attack": 6.33,
+                  "health": 12.96,
+                  "speed": 13.66,
+                  "viewDistance": 54.66,
+                  "isMale": 1,
+                  "guid": "7143e7b3-4bf3-414c-ad47-c8ec83518e1e"
+            },
+            {
+                  "attack": 7.14,
+                  "health": 12.04,
+                  "speed": 5.73,
+                  "viewDistance": 55.19,
+                  "isMale": 1,
+                  "guid": "48b2cf38-31b7-4e9e-9757-320c5e802e7c"
+            },
+            {
+                  "attack": 6.25,
+                  "health": 10.15,
+                  "speed": 12.01,
+                  "viewDistance": 61.35,
+                  "isMale": 1,
+                  "guid": "0f113e74-0d57-45ba-a3fa-1b4eba17412c"
+            }
+      ]
+]
