@@ -1,0 +1,70 @@
+{
+    "preyList": [
+        {
+            "rabbits": [
+                {
+                    "attack": 1,
+                    "health": 8,
+                    "speed": 8,
+                    "guid": "57324152-7748-4a7a-89a4-c8920f908044"
+                },
+                {
+                    "attack": 5,
+                    "health": 1,
+                    "speed": 3,
+                    "guid": "e22bc3f7-bf9f-476d-a8b6-f386d1d96aa8"
+                }
+            ]
+        },
+        {
+            "deer": [
+                {
+                    "attack": 6,
+                    "health": 4,
+                    "speed": 7,
+                    "guid": "652beacc-faf0-4988-a6b4-6668e2a21c83"
+                },
+                {
+                    "attack": 2,
+                    "health": 5,
+                    "speed": 3,
+                    "guid": "8f74fdb4-8ab6-4167-8baa-6c0986782852"
+                }
+            ]
+        }
+    ],
+    "predList": [
+        {
+            "wolves": [
+                {
+                    "attack": 2,
+                    "health": 3,
+                    "speed": 5,
+                    "guid": "db993deb-c6c1-4d91-909c-eb869a97c67d"
+                },
+                {
+                    "attack": 4,
+                    "health": 5,
+                    "speed": 5,
+                    "guid": "77dbc38f-4bda-40b9-b930-f91939998084"
+                }
+            ]
+        },
+        {
+            "jaguars": [
+                {
+                    "attack": 5,
+                    "health": 5,
+                    "speed": 9,
+                    "guid": "7b5743d1-5991-41bc-8ec5-0fafac7f0d3c"
+                },
+                {
+                    "attack": 10,
+                    "health": 10,
+                    "speed": 5,
+                    "guid": "9eb1606f-5883-472a-a501-3c898cebcf4e"
+                }
+            ]
+        }
+    ]
+}

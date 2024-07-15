@@ -1,0 +1,47 @@
+[
+      {
+            "attack": 6.94,
+            "health": 14.81,
+            "speed": 8.66,
+            "viewDistance": 73.35,
+            "isMale": 1,
+            "guid": "e6e2b3e2-cac8-42f2-8330-aff1d30fc54d",
+            "isProgenitor": true
+      },
+      {
+            "attack": 6.74,
+            "health": 13.52,
+            "speed": 14.19,
+            "viewDistance": 61.83,
+            "isMale": 0,
+            "guid": "6f2cfb1c-ffb7-41ec-9bef-e81f6f286cfb",
+            "isProgenitor": true
+      },
+      {
+            "attack": 7.88,
+            "health": 10.59,
+            "speed": 10.36,
+            "viewDistance": 79.17,
+            "isMale": 0,
+            "guid": "3cac5ab6-2efc-4e45-b23e-cc5e56d35e78",
+            "isProgenitor": true
+      },
+      {
+            "attack": 6.17,
+            "health": 12.32,
+            "speed": 14.75,
+            "viewDistance": 53.36,
+            "isMale": 0,
+            "guid": "01b8e4dc-09c7-4522-843e-f4b672042c08",
+            "isProgenitor": true
+      },
+      {
+            "attack": 7.89,
+            "health": 13.95,
+            "speed": 8.43,
+            "viewDistance": 45.99,
+            "isMale": 0,
+            "guid": "e088f8a9-5bcd-45cc-9440-265cfa363751",
+            "isProgenitor": true
+      }
+]
